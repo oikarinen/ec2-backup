@@ -1,0 +1,6 @@
+*.pyc
+*.py
+logs/
+bin/env.sh
+bin/config.rb
+
